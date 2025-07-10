@@ -1,0 +1,7 @@
+C:\Users\TUAN TRAN\Desktop\TestGit\GitTest3\GitTest3\bin\Debug\GitTest3.exe.config
+C:\Users\TUAN TRAN\Desktop\TestGit\GitTest3\GitTest3\bin\Debug\GitTest3.exe
+C:\Users\TUAN TRAN\Desktop\TestGit\GitTest3\GitTest3\bin\Debug\GitTest3.pdb
+C:\Users\TUAN TRAN\Desktop\TestGit\GitTest3\GitTest3\obj\Debug\GitTest3.csproj.AssemblyReference.cache
+C:\Users\TUAN TRAN\Desktop\TestGit\GitTest3\GitTest3\obj\Debug\GitTest3.csproj.CoreCompileInputs.cache
+C:\Users\TUAN TRAN\Desktop\TestGit\GitTest3\GitTest3\obj\Debug\GitTest3.exe
+C:\Users\TUAN TRAN\Desktop\TestGit\GitTest3\GitTest3\obj\Debug\GitTest3.pdb
